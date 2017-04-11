@@ -20,6 +20,9 @@ Dependency:
 ```
 # About 
 This software is dedicated to my girlfriend, Li. I love her so much.
+
 License: MIT. Use this wherever you want. :)
+
 Hacks and glory awaits!
+
 Tianrui Niu
