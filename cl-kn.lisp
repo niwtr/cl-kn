@@ -170,4 +170,5 @@
                                       ((indict w1 ?w1?/type) ;;\hit 3 \hit w0w1 hit *w1*
                                        (* 1 (kn2 w1w2)))
                                       (t (kn1 (last trig))))))
+                           ;;(kn3 trig))))))))
                            (- (log 10 (kn3 trig))))))))))
